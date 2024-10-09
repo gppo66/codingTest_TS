@@ -1,4 +1,1 @@
-const a: number = 2;
-
-console.log(a + a);
- 
+console.log("Hello word!")
